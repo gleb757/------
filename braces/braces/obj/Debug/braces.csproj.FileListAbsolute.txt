@@ -1,0 +1,8 @@
+D:\VS projects\braces\braces\bin\Debug\braces.exe.config
+D:\VS projects\braces\braces\bin\Debug\braces.exe
+D:\VS projects\braces\braces\bin\Debug\braces.pdb
+D:\VS projects\braces\braces\obj\Debug\braces.Form1.resources
+D:\VS projects\braces\braces\obj\Debug\braces.Properties.Resources.resources
+D:\VS projects\braces\braces\obj\Debug\braces.csproj.GenerateResource.Cache
+D:\VS projects\braces\braces\obj\Debug\braces.exe
+D:\VS projects\braces\braces\obj\Debug\braces.pdb
